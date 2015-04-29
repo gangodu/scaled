@@ -1,0 +1,10 @@
+amazons3/ListS3.class
+compress/Zip.class
+amazons3/DownloadS3.class
+sstable/sstableImport$csvReaderMapper.class
+amazons3/Constants.class
+amazons3/DeleteS3.class
+compress/UnZip.class
+sstable/JmxBulkLoader.class
+sstable/sstableImport.class
+amazons3/UploadS3.class
